@@ -18,22 +18,6 @@ El modelo logra resultados que superan baseline históricos simples:
 
 ---
 
-##  Visualizaciones Destacadas
-
-** Estación Morelos – buena predicción verdadera vs. predicha**  
-*MAPE < 10 %*  
-![Morelos Pred vs Real](ruta/a/your_plot_morelos.png)
-
-** Estación Zócalo/Tenochtitlan – alta volatilidad y mayor error**  
-*MAPE > 25 %*  
-![Zócalo Pred vs Real](ruta/a/your_plot_zocalo.png)
-
-** Jarilla resumen por cuartiles de estaciones**  
-Estaciones grandes = muy buena precisión; estaciones pequeñas = mayor dispersión.  
-![Resumen por cuartil](ruta/a/your_quartile_summary_plot.png)
-
----
-
 ##  Funcionalidades
 
 - Predicción día-a-día por estación (2021–2023 train, 2024 valid, 2025 test)  

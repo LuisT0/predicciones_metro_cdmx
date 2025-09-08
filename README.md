@@ -52,7 +52,6 @@ Estaciones grandes = muy buena precisión; estaciones pequeñas = mayor dispersi
 | `README.md`                       | Este archivo de presentación del proyecto |
 | `plots/`                          | Carpeta con imágenes usadas en el README |
 | `requirements.txt`                | Dependencias necesarias para ejecutar el notebook |
-| `utils/` (opcional)               | Módulos auxiliares (funciones de preprocesamiento, evaluación, etc.) |
 
 ---
 

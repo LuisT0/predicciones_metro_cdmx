@@ -44,4 +44,4 @@ El modelo logra resultados que superan baseline históricos simples:
 1. **Clonar el repositorio**  
    ```bash
    git clone https://github.com/TU_USUARIO/predicciones_metro_cdmx.git
-   cd metro-mx-afluencia
+   cd predicciones_metro_cdmx
